@@ -1,5 +1,9 @@
 # Entwicklung der Medienkompetenz in der SEK I – Neue Anforderungen durch die schulische Implementierung der KI
 
+<a href="https://www.buymeacoffee.com/highfish">
+<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
+
 ![Status](https://img.shields.io/badge/Status-Abgeschlossen-success?style=flat-square)
 ![Format](https://img.shields.io/badge/Format-Markdown-blue?style=flat-square)
 ![Sprache](https://img.shields.io/badge/Sprache-Deutsch-orange?style=flat-square)
@@ -57,3 +61,4 @@ Hier kannst du dir das begleitende Video direkt ansehen oder herunterladen:
 
 ---
 *Erstellt 2026 – Lizenziert unter der MIT Lizenz.*
+
