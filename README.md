@@ -4,10 +4,10 @@
 <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
 </a>
 
-![Status](https://img.shields.io/badge/Status-Abgeschlossen-success?style=flat-square)
-![Format](https://img.shields.io/badge/Format-Markdown-blue?style=flat-square)
-![Sprache](https://img.shields.io/badge/Sprache-Deutsch-orange?style=flat-square)
-![Thema](https://img.shields.io/badge/Thema-Medienbildung%20%7C%20KI-lightgrey?style=flat-square)
+[![Status](https://img.shields.io/badge/Status-Abgeschlossen-success?style=flat-square)](https://github.com/jbkunama1/trt.Seminararbeit)
+[![Format](https://img.shields.io/badge/Format-Markdown-blue?style=flat-square)](https://github.com/jbkunama1/trt.Seminararbeit)
+[![Sprache](https://img.shields.io/badge/Sprache-Deutsch-orange?style=flat-square)](https://github.com/jbkunama1/trt.Seminararbeit)
+[![Thema](https://img.shields.io/badge/Thema-Medienbildung%20%7C%20KI-lightgrey?style=flat-square)](https://github.com/jbkunama1/trt.Seminararbeit)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Aktiv-10b981?style=flat-square&logo=github)](https://jbkunama1.github.io/trt.Seminararbeit/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -61,4 +61,3 @@ Hier kannst du dir das begleitende Video direkt ansehen oder herunterladen:
 
 ---
 *Erstellt 2026 – Lizenziert unter der MIT Lizenz.*
-
