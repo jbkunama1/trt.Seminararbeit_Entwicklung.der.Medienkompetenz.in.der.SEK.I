@@ -1,0 +1,123 @@
+# 4. Neue Anforderungen an die schulische Medienkompetenzentwicklung durch KI
+
+Die in Kapitel 2 dargestellten Modelle von Medienkompetenz sowie die Verankerung von Medienbildung im Bildungsplan 2016 Baden-Württemberg bilden den Rahmen, in dem sich die schulische Auseinandersetzung mit Künstlicher Intelligenz (KI) in der Sekundarstufe I zu verorten hat. Vor dem Hintergrund der in Kapitel 3 skizzierten Chancen und Risiken von KI im Bildungsbereich entstehen neue curriculare, professionelle, rechtliche und schulische Entwicklungsanforderungen, die über eine allgemeine „Digitalisierung“ hinausgehen und spezifische KI-Kompetenzen bei Lernenden und Lehrkräften erfordern.[web:10][web:12]
+
+Im Folgenden werden diese Anforderungen systematisch entfaltet: Zunächst werden Erweiterungsbedarfe im Bildungsplan 2016 und konkrete Kompetenzerwartungen für KI-Bildung in der Sekundarstufe I herausgearbeitet (4.1), bevor die daraus resultierenden professionellen Anforderungen an Lehrkräfte (4.2), rechtliche Rahmenbedingungen (4.3) sowie Implikationen für die Schulentwicklung (4.4) dargestellt werden. Dabei wird sowohl auf landesspezifische Vorgaben (KM BW, ZSL, LMZ) als auch auf internationale Referenzrahmen (UNESCO, DigCompEdu, EU AI Act) Bezug genommen.[web:12][web:19][web:36][web:47]
+
+---
+
+## 4.1 Curriculare Anforderungen: KI-Kompetenz im Bildungsplan 2016 BW
+
+Der Bildungsplan 2016 für die Sekundarstufe I verankert Medienbildung als eine von sechs Leitperspektiven, die für alle Schularten und Fächer gültig sind und über die gesamte Schullaufbahn hinweg wirksam werden sollen.[web:10][web:12][web:23] Ergänzend dazu sieht der Plan einen Basiskurs Medienbildung in Klasse 5 vor, der grundlegende Kompetenzen in fünf Bereichen der Medienbildung legt und spiralcurricular in den Fachunterricht eingebettet werden soll.[web:14][web:17]
+
+Künstliche Intelligenz wird im Bildungsplan 2016 bislang nicht explizit als eigener Gegenstand ausgewiesen, sondern ist implizit in Form digitaler Werkzeuge und datenbasierter Anwendungen in der Leitperspektive Medienbildung sowie im Fach Informatik beziehungsweise Medienbildung angelegt.[web:10][web:13] Vor dem Hintergrund der Dynamik generativer KI‑Systeme und der Einstufung von Bildung als besonders schutzwürdiger Einsatzbereich im EU AI Act entsteht damit ein curriculares Update-Erfordernis: KI-Kompetenz muss als integraler Bestandteil von Medienkompetenz verstanden und in expliziten Kompetenzerwartungen für die Sek I ausgewiesen werden.[web:19][web:36]
+
+### 4.1.1 Erweiterungsbedarf der Leitperspektive Medienbildung
+
+Die Leitperspektive Medienbildung im Bildungsplan 2016 formuliert als Ziel, Schülerinnen und Schüler zu einem selbstbestimmten, verantwortungsbewussten und kreativen Umgang mit Medien zu befähigen und betont dabei unter anderem Informationsrecherche, Kommunikation, Produktion sowie Reflexion über Medienwirkungen.[web:11][web:23][web:14] Diese Zielsetzungen sind grundsätzlich anschlussfähig an KI, bleiben jedoch auf der Ebene allgemeiner digitaler Medien und adressieren spezifische KI-Phänomene wie algorithmische Entscheidungsprozesse, generative Modelle oder datengestützte Personalisierung bislang nur indirekt.
+
+International wird dagegen zunehmend gefordert, KI-Kompetenz explizit in curricularen Vorgaben zu verankern. Die UNESCO‑Leitlinien zu KI in der Bildung betonen, dass Lernende sowohl grundlegendes Wissen über Funktionsweisen und Grenzen von KI als auch Fähigkeiten zur kritischen Bewertung algorithmischer Entscheidungen und zum Schutz ihrer Daten erwerben sollen.[web:36][web:37][web:38] Zudem wird empfohlen, „AI literacy“ als Querschnittskompetenz zu verstehen, die in verschiedenen Fächern aufgegriffen und mit Fragen der Ethik, Gerechtigkeit und Teilhabe verknüpft wird.[web:36][web:41]
+
+Vor diesem Hintergrund lassen sich für die Leitperspektive Medienbildung drei zentrale Erweiterungsdimensionen skizzieren:
+
+1. **Transparenz und Funktionsverständnis von KI-Systemen**  
+   Schülerinnen und Schüler sollen grundlegende Prinzipien maschinellen Lernens, Trainingsdaten, Modellgrenzen und typische Fehlerquellen (z. B. Bias, Halluzinationen) verständnisorientiert kennenlernen, ohne dass hierfür ein vertieftes mathematisch‑informatisches Wissen vorausgesetzt wird. Dies entspricht der Forderung der UNESCO, KI nicht als „Black Box“ zu akzeptieren, sondern grundlegende Funktionsweisen und Grenzen didaktisch zu explizieren.[web:36][web:38]
+
+2. **Kritische Reflexion und ethische Bewertung**  
+   Die Leitperspektive sollte die explizite Auseinandersetzung mit Chancen und Risiken von KI für Bildung, Arbeitswelt und Demokratie aufnehmen, etwa in Bezug auf algorithmische Diskriminierung, Überwachung, Automatisierung von Arbeit sowie Auswirkungen auf Prüfungsformate und Leistungsbewertung. UNESCO und EU‑Rahmenwerke betonen insbesondere den Schutz von Menschenwürde, Inklusion, Vielfalt und Gerechtigkeit im Kontext KI‑gestützter Systeme.[web:35][web:36][web:19]
+
+3. **Daten- und Schutzkompetenz in KI-Kontexten**  
+   Während Medienbildung bereits Datenschutz und informationelle Selbstbestimmung behandelt, sind KI‑spezifische Fragen wie das Training von Modellen auf personenbezogenen Daten, Profilbildung oder die Nutzung von Lernanalytik gesondert zu adressieren. Die UNESCO‑Guidance für generative KI fordert explizit den Schutz von Daten sowie die Festlegung von Altersgrenzen und institutionellen Prüfmechanismen, bevor KI‑Tools im Unterricht eingesetzt werden.[web:35][web:38]
+
+Diese Erweiterungen können in den bestehenden Texten der Leitperspektive Medienbildung und des Basiskurses Medienbildung verankert werden, ohne die Struktur des Bildungsplans grundlegend zu verändern. Dadurch wird zugleich Anschlussfähigkeit an internationale Leitlinien und den EU AI Act hergestellt, der Bildung als besonders regulierungsbedürftigen Anwendungsbereich von KI hervorhebt.[web:19][web:36]
+
+### 4.1.2 Konkrete Kompetenzerwartungen für KI-Bildung in der Sek I
+
+Auf der Grundlage der dargestellten Erweiterungsbedarfe lassen sich konkrete, altersspezifische Kompetenzerwartungen für KI‑Bildung in der Sekundarstufe I formulieren, die sich spiralcurricular über die Klassenstufen 5 bis 10 erstrecken und mit den Kompetenzdimensionen nach Baacke sowie den Kompetenzbereichen nach Tulodziecki/Herzig/Grafe kompatibel sind.
+
+Für Klasse 5/6 können im Rahmen des Basiskurses Medienbildung vor allem grundlegende Unterscheidungs‑ und Orientierungsleistungen angestrebt werden, etwa zwischen „normalen“ digitalen Anwendungen und KI‑gestützten Systemen zu unterscheiden, einfache Beispiele für Mustererkennung zu verstehen (z. B. Bilderkennung, Empfehlungssysteme) und erste Erfahrungen mit Chatbots reflektierend zu begleiten.[web:17][web:14] Dabei stehen Alltagsbeispiele und die Sensibilisierung für Datenschutz und verantwortlichen Umgang mit eigenen Daten im Mittelpunkt.
+
+In Klasse 7/8, insbesondere im Fach Informatik beziehungsweise Medienbildung, können Kompetenzen zur gezielteren Nutzung und zum differenzierten Hinterfragen von KI‑Systemen aufgebaut werden. Lernende sollen einfache generative KI‑Werkzeuge (z. B. Text‑ oder Bildgeneratoren) adressatengerecht einsetzen, Eingaben (Prompts) bewusst gestalten und die Ergebnisse anhand von Kriterien wie Genauigkeit, Verzerrung, Quellenbezug und ethischer Vertretbarkeit kritisch prüfen können. Dies korrespondiert mit internationalen AI‑Literacy‑Rahmenkonzepten, die auf die Fähigkeit zielen, KI‑Systeme kompetent, kritisch und kreativ zu nutzen.[web:36][web:35]
+
+In Klasse 9/10 rücken stärker die gesellschaftlichen, arbeitsweltlichen und politischen Implikationen von KI in den Fokus. Schülerinnen und Schüler sollen in der Lage sein, Auswirkungen automatisierter Entscheidungsverfahren, z. B. bei Bewerbungsprozessen, Kreditwürdigkeitsprüfungen oder Sicherheitsanwendungen, auf Chancengerechtigkeit und Grundrechte zu analysieren und zu bewerten.[web:19][web:36] Darüber hinaus sollen sie eigene Positionen zur Rolle von KI in der demokratischen Gesellschaft entwickeln und argumentativ vertreten können, etwa in Bezug auf Regulierung, Transparenzpflichten oder die Grenzen des KI‑Einsatzes im Bildungsbereich.
+
+Diese Kompetenzerwartungen können fächerübergreifend angebunden werden, etwa im Fach Informatik/Medienbildung (Funktionsverständnis, einfache Modellierung und Datenverarbeitung), in Deutsch und Fremdsprachen (kritischer Umgang mit KI‑generierten Texten), in WBS (KI und Arbeitswelt) sowie in Ethik/Religion (ethische Dimensionen, Menschenbild und Verantwortung). Die KMK‑Strategie „Bildung in der digitalen Welt“ bietet hierfür bereits einen übergeordneten Rahmen, der digitale Kompetenzen in sechs Bereichen beschreibt und explizit offen für neue Technologien wie KI angelegt ist.[web:5][web:36]
+
+---
+
+## 4.2 Professionelle Anforderungen an Lehrkräfte
+
+Die curriculare Verankerung von KI‑Kompetenzen bleibt wirkungslos, wenn Lehrkräfte nicht über ausreichende medienpädagogische und KI‑bezogene Professionalisierung verfügen. Aus der Perspektive eines kompetenzorientierten Berufsverständnisses lassen sich neue Anforderungen sowohl auf der Ebene individueller Lehrkräfte als auch auf der Ebene der unterstützenden Institutionen (ZSL, KI‑Zentrum Schule, LMZ, SMZ) formulieren.
+
+### 4.2.1 Medienpädagogische Kompetenz als Grundvoraussetzung
+
+Der europäische DigCompEdu‑Rahmen beschreibt die digitale Kompetenz von Lehrpersonen in sechs Bereichen mit insgesamt 22 Einzelkompetenzen: professionelles Engagement, digitale Ressourcen, Lehren und Lernen, Bewertung, Förderung der Lernenden sowie Unterstützung der digitalen Kompetenz der Lernenden.[web:39][web:47] Diese Struktur ist nicht primär technisch, sondern didaktisch‑pädagogisch ausgerichtet und versteht digitale Technologien – einschließlich KI – als Werkzeuge für effizientes, inklusives und innovatives Lehren und Lernen.
+
+Für den Umgang mit KI im Unterricht ergeben sich aus DigCompEdu insbesondere folgende professionelle Anforderungsbereiche:
+
+- **Didaktisch reflektierte Nutzung von KI‑Werkzeugen**: Lehrkräfte müssen in der Lage sein, KI‑Systeme (z. B. Chatbots, adaptive Lernsysteme, Assistenztools) gezielt zur Unterstützung von Lernprozessen einzusetzen, etwa für binnendifferenzierte Aufgabenstellungen, individuelle Rückmeldungen oder kreative Produktgestaltung. Dies setzt Kenntnisse über Funktionsweise, Stärken und Grenzen der eingesetzten Systeme voraus.[web:39][web:36]
+
+- **Gestaltung von Lernaufgaben in einer KI‑reichen Umgebung**: Aufgabenformate und Prüfungsformate müssen so weiterentwickelt werden, dass sie Lernprozesse auch dann valide abbilden, wenn Lernende KI‑Systeme nutzen können. UNESCO empfiehlt, Prüfungsformen zu überdenken und stärker auf prozess‑ und projektorientierte Leistungen, Reflexion und metakognitive Kompetenzen zu setzen, um „KI‑robuste“ Bewertung zu ermöglichen.[web:35][web:36]
+
+- **Förderung von AI Literacy und kritischer Reflexion**: Lehrkräfte benötigen Kompetenzen, um mit Schülerinnen und Schülern KI‑Ergebnisse kritisch zu analysieren, Bias aufzudecken, Quellen zu prüfen und ethische Fragen zu diskutieren. Dies erfordert sowohl technisches Grundverständnis als auch medienethische und gesellschaftspolitische Reflexionsfähigkeit, wie sie in internationalen AI‑Frameworks für Lehrende eingefordert wird.[web:36][web:32]
+
+- **Datenschutz und Governance‑Kompetenz**: Neben didaktischer Gestaltung sind Lehrkräfte gefordert, die datenschutzrechtliche Zulässigkeit von KI‑Tools einzuschätzen, Einwilligungsprozesse zu beachten und die Vorgaben des Schulgesetzes sowie der Digitalunterrichtsverordnung (DUVO) umzusetzen. Das KM BW weist ausdrücklich darauf hin, dass nur datenschutzkonforme IT‑Anwendungen eingesetzt werden dürfen und besonders geschützte personenbezogene Daten in KI‑Systemen nicht verarbeitet werden dürfen.[web:24]
+
+Insgesamt verschiebt sich damit das professionelle Anforderungsprofil von Lehrkräften: Sie werden zu „didaktischen Übersetzern“ zwischen technologischen Möglichkeiten, rechtlichen Rahmenbedingungen und pädagogischen Zielen und müssen ihre eigene Medienkompetenz im Sinne einer kontinuierlichen Professionalisierung weiterentwickeln.
+
+### 4.2.2 Rolle des ZSL und des KI-Zentrums Schule
+
+Das Zentrum für Schulqualität und Lehrerbildung (ZSL) ist in Baden‑Württemberg für die systematische Weiterentwicklung der Unterrichtsqualität und die Lehrerfortbildung zuständig und nimmt somit eine zentrale Rolle bei der Professionalisierung im Bereich KI‑Bildung ein.[web:21] Mit dem KI‑Zentrum Schule hat das Land eine spezialisierte Einrichtung geschaffen, die am Innovation Park Artificial Intelligence (IPAI) angesiedelt ist und gemeinsam mit Partnern – unter anderem der Dieter‑Schwarz‑Stiftung – den Transfer von KI‑Expertise in die schulische Praxis unterstützt.[web:15][web:18]
+
+Das KI‑Zentrum Schule verfolgt das Ziel, Schulen dabei zu unterstützen, KI in schulischen Lehr‑Lern‑Prozessen lernförderlich nutzbar zu machen und zugleich die gesellschaftlichen, kulturellen und ethischen Auswirkungen von KI aus schulischer Perspektive zu reflektieren.[web:15][web:18] Dazu gehören insbesondere:
+
+- die Entwicklung und Bereitstellung von Fortbildungsangeboten zu didaktischem Einsatz von KI‑Tools, AI Literacy und rechtlichen Rahmenbedingungen,
+- die Unterstützung von Schulen bei der Erstellung und Weiterentwicklung von Medien‑ und KI‑Konzepten,
+- die Vernetzung von Schulen mit Forschungseinrichtungen und außerschulischen Akteuren sowie
+- die Begleitung von Modellprojekten und Schulversuchen zum KI‑Einsatz im Unterricht.
+
+Für Lehrkräfte ergeben sich daraus konkrete Professionalisierungswege: Sie können Fortbildungsangebote des ZSL und KI‑Zentrums Schule nutzen, an schulübergreifenden Netzwerken teilnehmen und ihre Rolle als Multiplikatorinnen und Multiplikatoren im Kollegium stärken. In Verbindung mit dem DigCompEdu‑Rahmen lassen sich Fortbildungsformate entlang der sechs Kompetenzbereiche strukturieren, etwa von Einsteigerformaten (A‑Niveau) bis hin zu Expertinnen‑ und Expertenprofilen (C‑Niveau), die im Bereich KI innovative Unterrichtskonzepte entwickeln und evaluieren.[web:39][web:47]
+
+---
+
+## 4.3 Rechtliche Anforderungen: EU AI Act und DUVO BW
+
+Die Implementierung von KI in Schule und Unterricht ist nicht nur didaktisch, sondern auch rechtlich anspruchsvoll. Mit dem EU AI Act liegt seit 2024 ein europaweit verbindlicher Rechtsrahmen vor, der KI‑Systeme nach Risikostufen klassifiziert und für „hochrisikoreiche“ Anwendungen – zu denen Bildungsanwendungen in bestimmten Konstellationen zählen – strenge Anforderungen an Transparenz, Datenqualität, Robustheit und menschliche Aufsicht formuliert.[web:19][web:22] Parallel dazu konkretisieren das Schulgesetz Baden‑Württemberg und die Digitalunterrichtsverordnung (DUVO) die zulässige Nutzung von KI im Unterricht auf Landesebene.
+
+Der EU AI Act unterscheidet vier Risikostufen: unvertretbares Risiko (verbotene Praktiken), hohes Risiko (strenge Auflagen), begrenztes Risiko (Transparenzpflichten) und minimales Risiko.[web:19] Für den Bildungsbereich besonders relevant ist zum einen das Verbot von Emotionserkennungssystemen in Bildungseinrichtungen, das KI‑Systeme untersagt, die aus biometrischen Daten Emotionen von Lernenden ableiten sollen.[web:19] Zum anderen werden KI‑Systeme, die in Bildungs‑ und Berufsbildungskontexten über den Zugang zu Bildung oder die Bewertung von Lernenden entscheiden, als potenziell hochrisikoreich klassifiziert und unterliegen umfangreichen Dokumentations‑, Transparenz‑ und Aufsichtspflichten.[web:19][web:22]
+
+Für Schulen ergeben sich daraus mehrere Implikationen:
+
+- KI‑Anwendungen, die Emotionen oder andere besonders sensible Merkmale von Schülerinnen und Schülern erkennen sollen, sind unzulässig und dürfen auch nicht zu „experimentellen“ Zwecken eingesetzt werden.[web:19]
+- Systeme, die automatisiert über Noten, Klassenzuteilungen oder Zugänge zu Bildungsangeboten entscheiden, müssen so gestaltet sein, dass die abschließende Bewertung bei der Lehrkraft bleibt und KI‑gestützte Vorschläge nachvollziehbar und überprüfbar sind. Dies deckt sich mit den Vorgaben des KM BW, wonach KI‑Anwendungen keine Noten vergeben oder andere wesentliche schulische Entscheidungen treffen dürfen.[web:24][web:19]
+- Schulen sind verpflichtet, nur solche KI‑Tools einzusetzen, deren Anbieter die Transparenz‑ und Dokumentationspflichten des AI Acts erfüllen (z. B. Beschreibung der Datenbasis, des Einsatzzwecks und der Qualitätskontrollen) und die datenschutzrechtlich konform betrieben werden können.[web:19][web:24]
+
+Auf Landesebene regelt § 115b Abs. 9 Schulgesetz in Verbindung mit § 6 DUVO den Einsatz von digitalen Anwendungen, einschließlich KI, im Unterricht. Nach den Informationen des KM BW ist der Einsatz von KI gestattet, sofern er der Förderung und Unterstützung des individuellen Lernwegs dient, differenzierte Lernangebote ermöglicht und datenschutzkonform gestaltet ist.[web:24] Besonders geschützte personenbezogene Daten im Sinne von Art. 9 DSGVO dürfen in KI‑Anwendungen nicht verarbeitet werden; die Verantwortung für die Einhaltung dieser Vorgaben liegt bei der Schule als Verantwortlicher im datenschutzrechtlichen Sinn.[web:24]
+
+Zugleich stellt das Land mit „F13“ und „AIS.chat“ eigene KI‑basierte Assistenzsysteme in SCHULE@BW bereit, die speziell für schulische Kontexte entwickelt wurden und unterschiedliche Large‑Language‑Models unter Einhaltung der landesrechtlichen Datenschutzstandards nutzbar machen.[web:24] Diese Angebote sollen Lehrkräften und Schulen eine datenschutzkonforme Alternative zu kommerziellen Systemen bieten und erleichtern die rechtssichere Implementierung von KI in Unterricht und Schulorganisation.
+
+Im Lichte der UNESCO‑Guidance für generative KI in der Bildung, die unter anderem den Schutz von Privatsphäre, die Festlegung von Altersgrenzen und die institutionelle Validierung von KI‑Systemen fordert, lässt sich festhalten, dass der EU AI Act und die DUVO BW einen verbindlichen rechtlichen Rahmen bereitstellen, der ethische Leitlinien in durchsetzbares Recht überführt.[web:35][web:38][web:19] Schulen sind daher aufgefordert, den Einsatz von KI nicht nur pädagogisch zu begründen, sondern auch systematisch rechtlich zu prüfen und entsprechende Governance‑Strukturen aufzubauen.
+
+---
+
+## 4.4 Anforderungen an die Schulentwicklung
+
+Die beschriebenen curricularen, professionellen und rechtlichen Anforderungen lassen sich nicht durch Einzelmaßnahmen erfüllen, sondern erfordern eine systematische Schulentwicklung im Sinne einer organisationsbezogenen Strategie für Medienbildung und KI. In Baden‑Württemberg liegen hierfür unterschiedliche Unterstützungsangebote und Impulse vor, unter anderem durch das KM BW, das ZSL, das Landesmedienzentrum (LMZ) und die Stadt‑ bzw. Kreismedienzentren (SMZ/KMZ).
+
+Das KM BW stellt auf seinem Portal „KI im Unterricht“ Informationsangebote für Lehrkräfte bereit, in denen rechtliche Rahmenbedingungen, landeseigene KI‑Assistenzsysteme (F13, AIS.chat) und didaktische Hinweise gebündelt sind.[web:24] Das Landesmedienzentrum wiederum entwickelt und veröffentlicht konkrete Unterrichtsideen zum Einsatz von KI in verschiedenen Fächern – darunter Lernideen zur Berufsorientierung und ‑vorbereitung mit KI‑gestützten Bewerbungsgesprächen sowie zur Aufdeckung von Fake News, Vorurteilen und Stereotypen mithilfe von KI‑Text‑ und Bildgeneratoren.[web:40][web:44] Diese Materialien dienen Schulen als Anregung und Entlastung bei der Konzeption eigener KI‑bezogener Unterrichtsvorhaben und unterstützen zugleich die Entwicklung eines schuleigenen Medien‑ und KI‑Profils.
+
+Aus Sicht der Schulentwicklung lassen sich vier zentrale Handlungsfelder identifizieren:
+
+1. **Unterrichts- und Curriculumentwicklung**  
+   Schulen sind gefordert, KI‑Inhalte systematisch in schuleigene Curricula zu integrieren, etwa durch die Zuordnung von KI‑Kompetenzerwartungen zu Fächern und Jahrgangsstufen sowie die Entwicklung von Unterrichtssequenzen und Projekten, wie sie in Kapitel 5 beispielhaft ausgearbeitet werden. Dabei können die KMK‑Strategie „Bildung in der digitalen Welt“, der Bildungsplan 2016 und internationale Rahmenwerke (UNESCO, DigCompEdu) als Orientierungsrahmen dienen.[web:5][web:36][web:47]
+
+2. **Personal- und Fortbildungsentwicklung**  
+   Die Entwicklung von KI‑Kompetenzen bei Lehrkräften sollte als kontinuierlicher Prozess verstanden werden, der sowohl individuelle Fortbildungswege als auch kollegiale Formate (Lernzirkel, schulinterne Fortbildungen, Hospitationen) umfasst. Angebote des ZSL und des KI‑Zentrums Schule bieten hierfür strukturierte Unterstützung, etwa durch themenspezifische Fortbildungsreihen, Multiplikatorinnen‑ und Multiplikatorenprogramme oder Beratungsangebote für Schulleitungen.[web:21][web:15]
+
+3. **Organisations- und Governance-Strukturen**  
+   Schulen benötigen klare Regelungen und Prozesse für den Einsatz von KI, etwa in Form eines schuleigenen Medien‑ und KI‑Konzepts, das Zuständigkeiten, Entscheidungskriterien, Datenschutzmaßnahmen und Kommunikationswege festlegt. Die UNESCO empfiehlt eine gestufte Implementationsstrategie, beginnend mit einer Bestandsaufnahme der digitalen Infrastruktur und Kompetenzen (Phase 1), über Pilotprojekte und policy‑Entwicklung (Phase 2) bis hin zur Skalierung bewährter Ansätze (Phase 3).[web:37][web:36] Diese Logik kann auf die schulische Ebene übertragen werden, etwa durch eine schulintern abgestimmte Roadmap für KI‑Implementierung.
+
+4. **Kooperation und Vernetzung**  
+   Schließlich ist Schulentwicklung im Bereich KI auf externe Kooperationen angewiesen, etwa mit LMZ und SMZ/KMZ, die technische Infrastruktur, Beratung und medienpädagogische Expertise bereitstellen, sowie mit regionalen Netzwerken, Hochschulen oder außerschulischen Lernorten. Das KI‑Zentrum Schule fungiert hier als Knotenpunkt, der schulische Akteure mit KI‑Expertinnen und ‑Experten sowie anderen Bildungseinrichtungen vernetzt.[web:18][web:21]
+
+Insgesamt lässt sich festhalten, dass die Implementierung von KI in der Sekundarstufe I nur dann zu einer nachhaltigen Weiterentwicklung von Medienkompetenz führt, wenn sie in ein umfassendes Schulentwicklungsverständnis eingebettet ist, das Unterricht, Personal, Organisation und Kooperation gleichermaßen adressiert. Die in den kommenden Kapiteln vorgestellten Unterrichtssequenzen und Projektvorhaben (Kapitel 5) sowie das abschließende Fazit (Kapitel 6) greifen diese Handlungsfelder auf und konkretisieren sie aus der Perspektive der Unterrichts- und Schulpraxis.

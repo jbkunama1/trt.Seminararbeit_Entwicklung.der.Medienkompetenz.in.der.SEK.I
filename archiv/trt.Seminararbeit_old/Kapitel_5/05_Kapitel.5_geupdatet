@@ -1,0 +1,222 @@
+# 5. Transfer: Medienkompetenz und KI im Unterricht der Sek I
+
+Das folgende Kapitel konkretisiert die zuvor entwickelten theoretischen und curricularen Überlegungen durch exemplarische Unterrichts- und Schulentwicklungsmaßnahmen für die Sekundarstufe I. Im Mittelpunkt stehen eine 12‑stündige Unterrichtssequenz „KI verstehen, nutzen, hinterfragen“ für Klasse 7/8 (5.1), ein fächerverbindendes Projekt „KI und Arbeitswelt“ in Klasse 9 (5.2) sowie schulentwicklungsbezogene Handlungsempfehlungen zur Nutzung der institutionellen Unterstützung in Baden‑Württemberg (5.3). Die Beispiele orientieren sich am Bildungsplan 2016 Baden‑Württemberg (Leitperspektive Medienbildung, Fächer Informatik/Medienbildung, WBS, Technik), an der KMK‑Strategie „Bildung in der digitalen Welt“, an internationalen Leitlinien der UNESCO zur KI‑Bildung sowie am DigCompEdu‑Rahmen für Lehrkräfte.[web:10][web:11][web:5][web:36][web:47]  
+
+---
+
+## 5.1 Unterrichtssequenz: „KI verstehen, nutzen, hinterfragen“ (Kl. 7/8)
+
+### 5.1.1 Einordnung und curriculare Anbindung
+
+Die Unterrichtssequenz richtet sich an Schülerinnen und Schüler der Klassenstufe 7 oder 8 einer Realschule und ist primär im Fach Informatik bzw. Medienbildung verortet, kann aber durch Bezüge zu Deutsch, WBS und Ethik fächerübergreifend erweitert werden.[web:10][web:13] Sie zielt darauf ab, grundlegende KI‑Kompetenzen im Sinne der Leitperspektive Medienbildung, der KMK‑Strategie „Bildung in der digitalen Welt“ und internationaler AI‑Literacy‑Rahmen aufzubauen.[web:11][web:5][web:36]  
+
+Die Sequenz lässt sich mit folgenden Kompetenzperspektiven verbinden:  
+- **Bildungsplan 2016 / Leitperspektive Medienbildung:** Reflexion über Chancen und Risiken digitaler Medien, verantwortliche Nutzung von Informations‑ und Kommunikationstechnologien, Schutz der eigenen Daten.[web:11][web:23]  
+- **Fach Informatik/Medienbildung (Sek I):** Grundlagen der Informatik, Algorithmik, Daten und Informationen, Wirkungen der Informatik in Gesellschaft und Beruf.[web:13][web:17]  
+- **KMK‑Strategie „Bildung in der digitalen Welt“:** Informieren und Recherchieren, Kommunizieren und Kooperieren, Produzieren und Präsentieren, Schützen und sicher Agieren, Problemlösen und Handeln, Analysieren und Reflektieren.[web:5]  
+- **UNESCO / AI and Education – Guidance for Policy‑makers:** Verstehen von Funktionsprinzipien, kritische Bewertung von KI‑Systemen, Schutz von Privatsphäre und Menschenrechten, partizipative Auseinandersetzung mit KI.[web:36][web:33]  
+
+Als übergreifende Lernziele der Sequenz lassen sich formulieren:  
+1. Die Schülerinnen und Schüler beschreiben in alltagsnaher Sprache grundlegende Funktionsprinzipien von KI‑Systemen (z. B. Mustererkennung, Lernen aus Daten) und unterscheiden KI‑gestützte von „klassischen“ digitalen Anwendungen.  
+2. Sie nutzen einfache generative KI‑Tools (z. B. Text‑ oder Bildgeneratoren) zur Bearbeitung von Aufgaben und reflektieren deren Stärken und Grenzen.  
+3. Sie identifizieren Chancen und Risiken von KI im Alltag und in der Schule und entwickeln Kriterien für einen verantwortungsvollen Einsatz.  
+4. Sie reflektieren die Rolle von Daten, Datenschutz und Urheberrecht im Kontext KI und leiten Handlungsempfehlungen für ihr eigenes Medienhandeln ab.[web:36][web:35][web:24]  
+
+### 5.1.2 Verlaufsplanung (12 Stunden)
+
+Die folgende Übersicht skizziert eine mögliche 12‑stündige Verlaufsplanung (z. B. sechs Doppelstunden). Die konkret eingesetzten Tools können in Abhängigkeit von schulischer Infrastruktur und datenschutzrechtlicher Zulässigkeit variieren (z. B. Nutzung von landesweit bereitgestellten KI‑Diensten wie F13/AIS.chat oder schulischen Testumgebungen).[web:24]  
+
+| Stunde | Schwerpunkt / Thema                                          | Phasen / Methoden                                                                                     | Sozialform           | Mögliche Medien / KI‑Tools                           |
+|--------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|----------------------|------------------------------------------------------|
+| 1      | Einstieg: „Wo begegnet uns KI im Alltag?“                    | Impulsbilder / Kurzvideos, Brainstorming, Clustern, erste Begriffsklärung                            | Plenum, Gruppen      | Präsentation, Tafel/Padlet, evtl. KI‑Bilderkennung  |
+| 2      | Was ist KI? Grundbegriffe                                   | Lehrervortrag mit Schülerrückfragen, vereinfachte Modelle (Sortiermaschine, Mustererkennung)         | Plenum, Partner      | Erklärgrafiken, ggf. interaktive Simulationen       |
+| 3      | KI im Smartphone / in Plattformen                            | Analyse von Beispielen (Empfehlungssysteme, Sprachassistenten), Arbeitsblatt                         | Gruppenarbeit        | Arbeitsblatt, Recherche im Schulnetz                |
+| 4      | Daten als „Futter“ für KI                                   | Stationenlernen zu Trainingsdaten, Overfitting, Bias (vereinfachte Beispiele, Bilddatensätze)        | Gruppen / Stationen  | Kartenmaterial, vereinfachte Datensätze, Plakate    |
+| 5      | Generative KI – Text                                         | Geführte Erkundung eines Text‑Chatbots, Prompt‑Experimente, Vergleich von Antworten                   | Partnerarbeit        | Schul‑KI (z. B. F13/AIS.chat), Bildschirmprojektion |
+| 6      | Generative KI – Bild                                         | Bildgenerator kennenlernen, Vergleich von Ergebnissen, Diskussion von Vorurteilen / Stereotypen      | Gruppenarbeit        | datenschutzkonformer Bildgenerator, Ausdrucke       |
+| 7      | Chancen von KI                                               | Gruppenpuzzle: KI in Medizin, Mobilität, Bildung, inklusives Lernen; Plakatgestaltung                | Expertengruppen      | Recherche, LMZ‑Material zu KI‑Lernideen             |
+| 8      | Risiken, Grenzen und Fehlentscheidungen                      | Fallbeispiele (Fehlklassifikationen, Diskriminierung), Rollenspiel „Beschwerdeausschuss“             | Rollenspiel, Plenum  | Textkarten, ggf. kurze Videos                       |
+| 9      | KI im Unterricht und in Prüfungen                            | Szenarienarbeit („Hausaufgaben mit KI“, „Klassenarbeit ohne KI?“), Diskussion von Regeln             | Plenum, Gruppen      | Schulordnungsauszüge, KM BW‑Hinweise zu KI          |
+| 10     | Eigene Leitlinien „KI in meiner Klasse“ entwickeln           | Gruppen entwickeln Klassenvereinbarungen und Kriterien verantwortlichen KI‑Einsatzes                 | Gruppenarbeit        | Plakate, digitale Pinnwand                          |
+| 11     | Präsentation und Peer‑Feedback                               | Präsentation der Leitlinien, Peer‑Feedback mit Kriterienraster                                       | Plenum               | Präsentationen, Feedbackbögen                       |
+| 12     | Reflexion und Ausblick                                      | Einzelreflexion (Lernjournal), mündliches Blitzlicht, Ausblick auf Projekt „KI und Arbeitswelt“      | Einzel, Plenum       | Reflexionsbogen, ggf. digitale Umfrage              |
+
+Die Stunden 5 und 6 bieten Gelegenheit, konkret mit generativen KI‑Tools zu arbeiten, dabei aber die rechtlichen Rahmenbedingungen (Datenschutz, keine Eingabe personenbezogener Daten, Nutzung sicherer Systeme) explizit zu thematisieren.[web:24][web:35] Die in Stunden 7–10 erarbeiteten Inhalte bilden eine Grundlage für das anschließende Projekt „KI und Arbeitswelt“ in Klasse 9 (Kapitel 5.2) sowie für schulische Vereinbarungen in einem KI‑Medienkonzept.  
+
+### 5.1.3 Differenzierung und Inklusion
+
+Die Sequenz ist so zu gestalten, dass unterschiedliche Lernvoraussetzungen, Sprachstände und Unterstützungsbedarfe berücksichtigt werden. Die UNESCO betont in ihren Leitlinien zur KI in der Bildung ausdrücklich die Bedeutung von Inklusion und Chancengerechtigkeit, sowohl im Zugang zu KI‑gestützten Lernangeboten als auch in der Vermeidung neuer Exklusionsrisiken.[web:36][web:41]  
+
+Mögliche Differenzierungsmaßnahmen sind:  
+- **Inhaltliche Differenzierung:**  
+  - Basis‑Arbeitsblätter mit klar strukturierten Aufgaben und Beispielen für Lernende mit Unterstützungsbedarf.  
+  - Erweiterungsaufgaben (z. B. Analyse eines zusätzlichen Fallbeispiels, eigene kleine Datensammlung) für leistungsstarke Lernende.  
+- **Sprachliche Differenzierung:**  
+  - Verwendung von Visualisierungen, Wortlisten, Satzanfängen und beispielhaften Formulierungen zur Unterstützung von Lernenden mit Deutsch als Zweitsprache.  
+  - Einsatz von KI‑Tools zur Vereinfachung von Texten („Explain like I’m 12“) innerhalb eines klaren didaktischen Rahmens, um Sprachverständnis zu fördern.[web:36][web:35]  
+- **Methodische Differenzierung:**  
+  - Wechsel von kooperativen Arbeitsformen (Gruppenpuzzle, Stationenlernen) und Einzelphasen, um unterschiedliche Lernstile anzusprechen.  
+  - Angebot verschiedener Darstellungsformen (Text, Mindmap, Audio‑Statement, Plakat) bei der Präsentation von Ergebnissen.  
+
+Im Sinne von DigCompEdu sind Lehrkräfte aufgefordert, digitale Technologien so zu wählen und zu kombinieren, dass sie differenzierende Lernwege eröffnen und Lernende mit besonderen Bedarfen unterstützen (z. B. Vorlesefunktionen, visuelle Darstellungen, sprachunterstützende Tools).[web:39][web:47] Gleichzeitig ist zu vermeiden, dass KI‑basierte Hilfen zur dauerhaften Kompensation grundlegender Kompetenzdefizite missverstanden werden; stattdessen sollen sie gezielt als Scaffolding auf dem Weg zu mehr Selbstständigkeit dienen.  
+
+### 5.1.4 Leistungserhebung und Reflexion
+
+Vor dem Hintergrund des KI‑Einsatzes gewinnen formative und prozessorientierte Formen der Leistungserhebung an Bedeutung. UNESCO empfiehlt ausdrücklich, Bewertungspraktiken so anzupassen, dass sie in KI‑reichen Lernumgebungen valide und fair bleiben, z. B. durch Betonung von Reflexionsleistungen, Prozessdokumentationen und kollaborativen Produkten.[web:35][web:36]  
+
+Für die vorliegende Sequenz bieten sich Kombinationen aus formativer und summativer Bewertung an:  
+
+- **Formative Elemente:**  
+  - Beobachtungsbögen während Gruppenarbeiten (z. B. Kooperation, Diskussionsfähigkeit, kritische Nachfragen).  
+  - Kurzfeedbacks auf Zwischenergebnisse (z. B. erste Kriterienlisten zu Chancen/Risiken, Entwürfe von Leitlinien).  
+  - Lernjournal oder digitale Portfolioeinträge, in denen Lernende z. B. nach Stunde 6 und Stunde 10 ihre Erfahrungen mit KI festhalten.  
+
+- **Summative Elemente:**  
+  - Bewertung der Gruppenprodukte (Plakat, Präsentation „Unsere KI‑Leitlinien“) anhand eines transparenten Rasters (z. B. fachliche Richtigkeit, kritische Reflexion, Verständlichkeit, Gestaltung).  
+  - Kurze individuelle Reflexion (schriftlich), in der Lernende zentrale Erkenntnisse, offene Fragen und eigene Konsequenzen für ihr Medienhandeln benennen.  
+
+Ein mögliches Raster für die Bewertung der Gruppenpräsentationen könnte folgende Kriterien umfassen: fachliche Korrektheit, Berücksichtigung von Chancen und Risiken, Einbezug von Datenschutz und Fairness, Klarheit der Regeln für den Umgang mit KI in der Klasse sowie nachvollziehbare Begründung. Diese Form der Leistungserhebung macht sichtbar, inwieweit Schülerinnen und Schüler KI nicht nur technisch nutzen, sondern in den Kontext von Medienethik und demokratischer Teilhabe einordnen können.[web:36][web:5]  
+
+---
+
+## 5.2 Fächerverbindendes Projektvorhaben: „KI und Arbeitswelt“ (Kl. 9, WBS/Technik)
+
+### 5.2.1 Konzept und curriculare Einordnung
+
+Das Projekt „KI und Arbeitswelt“ ist für die Klassenstufe 9 konzipiert und verknüpft die Fächer Wirtschaft/Berufs‑ und Studienorientierung (WBS) und Technik. Es knüpft an die Leitperspektiven Berufliche Orientierung und Medienbildung im Bildungsplan 2016 an und greift Themen der digitalen Transformation der Arbeitswelt (Industrie 4.0, Automatisierung, KI‑gestützte Prozesse) auf.[web:10][web:12]  
+
+Im Fach WBS werden u. a. die Entwicklung der Arbeitswelt, Anforderungen an berufliche Kompetenzen und die Rolle der Digitalisierung für Berufsbilder behandelt, während das Fach Technik technische und informatische Grundlagen von Automatisierung, Robotik und digitalen Systemen thematisiert.[web:10] Internationale Berichte (z. B. UNESCO) betonen, dass KI die Anforderungen an Qualifikationen und Beschäftigungsprofile deutlich verändert und dass berufliche Orientierung heute auch den reflektierten Umgang mit KI‑gestützten Systemen einschließen muss.[web:36][web:41]  
+
+Zentrale Ziele des Projekts sind:  
+1. Die Schülerinnen und Schüler analysieren, wie KI‑Technologien Arbeitsprozesse in ausgewählten Branchen verändern (z. B. Logistik, Gesundheitswesen, Produktion, Dienstleistung).  
+2. Sie reflektieren Chancen und Risiken von KI für Beschäftigte (z. B. Entlastung, neue Tätigkeitsfelder vs. Tätigkeitsverlagerung, Überwachung) und beziehen diese auf ihre eigene Berufsorientierung.  
+3. Sie erstellen ein informationsbasiertes Produkt (z. B. Podcast, Erklärvideo, digitale Präsentation), in dem sie die Auswirkungen von KI auf einen ausgewählten Beruf bzw. eine Branche adressatengerecht darstellen.  
+4. Sie entwickeln erste Strategien, wie sie sich im Hinblick auf eine zunehmend von KI geprägte Arbeitswelt qualifizieren und ihre Medien- und KI‑Kompetenz weiterentwickeln können.  
+
+### 5.2.2 Projektphasen (10–12 Stunden)
+
+Das Projekt ist auf etwa 10–12 Unterrichtsstunden angelegt, die in einer Projektwoche oder über mehrere Wochen verteilt durchgeführt werden können.  
+
+**Phase 1: Einstieg und Problemaufriss (1–2 Stunden)**  
+- Lehrkraft zeigt kurze Videos oder Grafiken zur „Arbeitswelt der Zukunft“ (z. B. automatisierte Lager, KI‑gestützte Diagnose in der Medizin, Chatbots im Kundendienst).  
+- Brainstorming: „Wo könnte in meinem Wunschberuf KI eine Rolle spielen?“ – Sammeln erster Hypothesen.  
+- Einführung in das Projekt, Vorstellung der Produkte (z. B. Podcast, Erklärvideo, digitale Präsentation, Infoplakat).  
+
+**Phase 2: Recherche und Informationsbeschaffung (3–4 Stunden)**  
+- Gruppen wählen jeweils eine Branche oder einen Beruf (z. B. Pflege, Mechatronik, Einzelhandel, IT, Verwaltung).  
+- Recherche zu folgenden Leitfragen:  
+  - Welche KI‑Technologien werden in diesem Bereich bereits genutzt oder erprobt?  
+  - Welche Tätigkeiten werden unterstützt, verändert oder ersetzt?  
+  - Welche neuen Anforderungen entstehen für Beschäftigte (z. B. Datenkompetenz, Umgang mit KI‑Systemen, Teamarbeit mit Robotern)?  
+  - Welche Chancen und Risiken werden in Fachartikeln oder Interviews genannt (z. B. Entlastung von Routineaufgaben, Überwachung, Entgrenzung von Arbeit)?  
+- Nutzung von Materialien des LMZ zur Berufsorientierung mit KI (z. B. Lernideen „KI im Klassenzimmer – Berufsorientierung und -vorbereitung“).[web:40]  
+- Optional: Einsatz von generativen KI‑Tools zur Unterstützung der Recherche (z. B. Zusammenfassung von Artikeln, Erstellen von Interviewleitfäden), jedoch immer mit kritischer Prüfung der Ergebnisse (Quellencheck, Faktenabgleich).[web:35][web:36]  
+
+**Phase 3: Begegnung mit der Praxis (2–3 Stunden)**  
+- Nach Möglichkeit Betriebserkundung, Expertengespräch (vor Ort oder online) mit einer Person aus der Praxis, die zum Einsatz von KI im Berufsfeld berichten kann.  
+- Vorbereitung durch die Lernenden: Fragenkatalog, der sowohl technische als auch arbeitssoziologische Aspekte umfasst (z. B. „Welche Tätigkeiten werden heute anders ausgeführt als früher?“, „Wie hat KI Ihren Arbeitsalltag verändert?“, „Welche Kompetenzen brauchen neue Auszubildende?“).  
+- Dokumentation des Gesprächs (Notizen, Audio‑Mitschnitt, Video).  
+
+**Phase 4: Produktphase (3–4 Stunden)**  
+- Gruppen werten ihre Recherchen und das Expertengespräch aus und entwickeln ein adressatengerechtes Produkt für andere Jugendliche (z. B. 8‑minütiger Podcast, 5‑minütiges Erklärvideo, interaktive Präsentation, digitale Infobroschüre).  
+- Empfohlene Struktur:  
+  1. Kurze Vorstellung des Berufs/der Branche.  
+  2. Konkrete Beispiele für den Einsatz von KI.  
+  3. Chancen und Risiken aus Sicht der Beschäftigten.  
+  4. Anforderungen an zukünftige Bewerberinnen und Bewerber (inkl. Medien‑ und KI‑Kompetenzen).  
+  5. Tipps für die eigene Berufsorientierung.  
+- Technische Umsetzung mit schulisch etablierten Tools (z. B. Präsentationssoftware, einfache Audio‑/Video‑Tools); generative KI kann – datenschutzkonform – unterstützend eingesetzt werden, etwa zur Skripterstellung oder zur Erstellung vereinfachter Visualisierungen.[web:24][web:40]  
+
+**Phase 5: Präsentation, Feedback und BO‑Reflexion (2–3 Stunden)**  
+- Präsentation der Produkte im Plenum oder in einer „Messe“ mit Stationen.  
+- Peer‑Feedback anhand eines Kriterienrasters (fachliche Richtigkeit, Verständlichkeit, Gestaltung, Reflexion von Chancen/Risiken, konkrete BO‑Bezüge).  
+- Gemeinsame Reflexion:  
+  - In welchen Berufen sehen die Lernenden die größten Veränderungen durch KI?  
+  - Welche Kompetenzen wollen sie in den nächsten Jahren gezielt entwickeln (z. B. Problemlösefähigkeit, Datenkompetenz, Teamarbeit mit KI‑Systemen)?  
+  - Welche Rolle können Schule und außerschulische Partner (Berufsberatung, Betriebe, LMZ‑Materialien) dabei spielen?  
+
+Das Projekt stärkt nicht nur Medien‑ und KI‑Kompetenzen, sondern trägt zugleich zur beruflichen Orientierung im Sinne des Bildungsplans und dessen Leitperspektiven bei. Durch die direkte Auseinandersetzung mit der Arbeitswelt werden die eher abstrakten Themen „KI“ und „Digitalisierung“ konkret und biografisch bedeutsam.  
+
+---
+
+## 5.3 Schulentwicklung: Institutionelle Unterstützung in BW nutzen
+
+Die in 5.1 und 5.2 dargestellten Unterrichtsbeispiele können nur dann nachhaltig verankert werden, wenn sie in ein schuleigenes Medien‑ und KI‑Konzept eingebettet sind, das auf Schul‑, Unterrichts‑ und Personalentwicklung abgestimmt ist. Baden‑Württemberg stellt hierfür mit KM BW, ZSL, KI‑Zentrum Schule, dem Landesmedienzentrum (LMZ) sowie Stadt‑ und Kreismedienzentren ein dichtes Unterstützungsnetz bereit.[web:12][web:21][web:40]  
+
+### 5.3.1 Aufbau eines schuleigenen KI-Medienkonzepts
+
+Ein schuleigenes KI‑Medienkonzept kann als Fortschreibung bzw. Ergänzung des bestehenden Medienentwicklungsplans verstanden werden, das insbesondere Fragen des KI‑Einsatzes in Unterricht, Organisation und Schulprofilbildung adressiert.[web:12][web:24] Aus der Literatur zur digitalen Schulentwicklung und den UNESCO‑Empfehlungen lassen sich folgende Schritt‑für‑Schritt‑Vorgehensweise ableiten:[web:36][web:37]  
+
+1. **Bestandsaufnahme (Ist‑Analyse)**  
+   - Infrastruktur: Welche Geräte, Netze, Plattformen und ggf. KI‑Tools (z. B. F13, AIS.chat) sind vorhanden?[web:24]  
+   - Kompetenzen: Welche medien‑ und KI‑bezogenen Kompetenzen bringen Lehrkräfte, Schülerinnen und Schüler mit (z. B. durch Fortbildungen, Projekte)?  
+   - Unterricht: In welchen Fächern und Jahrgangsstufen wird KI bereits thematisiert bzw. eingesetzt?  
+
+2. **Zielklärung und Leitbild**  
+   - Gemeinsame Entwicklung eines Leitbilds „KI in unserer Schule“ (z. B. im Rahmen einer Pädagogischen Konferenz oder eines Schulentwicklungstags).  
+   - Klärung, welche Rolle KI in Unterricht, Förderung, Beratung, Schulorganisation und Profilbildung spielen soll (z. B. als Profilmerkmal „digitale Schule“, „MINT‑Schule mit KI‑Schwerpunkt“).  
+
+3. **Curriculare Verankerung**  
+   - Zuordnung von KI‑Kompetenzerwartungen zu Fächern und Jahrgangsstufen (Curriculum mapping).  
+   - Definition von verbindlichen Mindeststandards (z. B. „Alle Lernenden haben bis Ende Klasse 8 zumindest einmal generative KI reflektiert genutzt und Chancen/Risiken diskutiert“).  
+
+4. **Fortbildungsplanung**  
+   - Ermittlung von Fortbildungsbedarfen im Kollegium (z. B. Grundlagen KI, didaktischer Einsatz, rechtliche Fragen).  
+   - Planung mehrjähriger Fortbildungsreihen unter Nutzung von Angeboten des ZSL, KI‑Zentrums Schule und LMZ.[web:21][web:15][web:40]  
+
+5. **Regelungen und Governance**  
+   - Erarbeitung schulinterner Regelungen zum KI‑Einsatz (z. B. in Hausordnung, Mediennutzungskonzept, Vereinbarungen mit Eltern).  
+   - Festlegung von Zuständigkeiten (z. B. Medienbeauftragte, KI‑Steuergruppe) und Kommunikationswegen (Information des Kollegiums, der Eltern, der Lernenden).  
+
+6. **Pilotierung und Evaluation**  
+   - Start mit ausgewählten Klassen, Fächern und Projekten (z. B. der hier dargestellten Sequenz in 7/8 und dem Projekt in 9).  
+   - Systematische Rückmeldungen der Beteiligten einholen (z. B. Feedbackbögen, Interviews) und Ergebnisse in Konferenzen auswerten.  
+
+7. **Skalierung und Verstetigung**  
+   - Übertragung bewährter Praktiken auf weitere Klassenstufen und Fächer.  
+   - Integration des KI‑Medienkonzepts in das Schulprogramm, regelmäßige Aktualisierung in mehrjährigen Zyklen.  
+
+8. **Externe Kooperation und Qualitätsentwicklung**  
+   - Aufbau und Pflege von Kooperationen mit LMZ, SMZ/KMZ, Betrieben, Hochschulen und anderen Schulen im Sinne einer lernenden Organisation.[web:40][web:44][web:18]  
+
+Dieser Prozess erfordert eine aktive Rolle der Schulleitung, die KI‑bezogene Innovation unterstützt, Ressourcen bereitstellt und einen Schutzraum für Erprobung und Reflexion schafft.  
+
+### 5.3.2 Beratung und Unterstützung durch LMZ und SMZ
+
+Das Landesmedienzentrum Baden‑Württemberg versteht sich als zentraler Partner für Schulen in Fragen der Medienbildung und stellt Beratung, Fortbildung, technische Services und Unterrichtsmaterialien bereit.[web:40] In Bezug auf KI im Unterricht gehören dazu u. a.:  
+
+- **Unterrichtsideen und Materialien:**  
+  - Veröffentlichungen wie „KI im Unterricht – Berufsorientierung und -vorbereitung“ mit konkreten Lernszenarien für die Sek I (z. B. KI‑gestützte Bewerbungssimulationen).[web:40]  
+  - Materialien zur kritischen Auseinandersetzung mit Fake News, Vorurteilen und Stereotypen mithilfe von KI‑Text‑ und Bildgeneratoren.[web:44]  
+
+- **Beratung und Fortbildung:**  
+  - Regionale medienpädagogische Beratungen in Kooperation mit SMZ/KMZ, die Schulen bei der Entwicklung von Medien‑ und KI‑Konzepten unterstützen.  
+  - Fortbildungen zu KI‑Grundlagen, didaktischen Einsatzmöglichkeiten und rechtlichen Fragen, teils in Zusammenarbeit mit dem ZSL.  
+
+- **Technische und organisatorische Unterstützung:**  
+  - Informationen zu geeigneten Tools, Lizenzen und Datenschutzfragen.  
+
+Die Stadt‑ und Kreismedienzentren ergänzen diese Angebote durch lokale Beratung, Ausleihe von Geräten und die Organisation regionaler Netzwerke (z. B. Arbeitskreise Medienbildung). Schulen können diese Ressourcen gezielt in ihren Schulentwicklungsprozess einbinden, etwa durch gemeinsame Planungstage mit LMZ‑Fachberaterinnen und ‑Fachberatern oder durch die Teilnahme an Modellprojekten.  
+
+### 5.3.3 Fortbildung über ZSL und KI-Zentrum Schule
+
+Das ZSL und das KI‑Zentrum Schule sind zentrale Akteure für die systematische Professionalisierung von Lehrkräften im Bereich KI.[web:21][web:15] Das Land hat explizit das Ziel formuliert, Schulen dabei zu unterstützen, KI „lernförderlich nutzbar zu machen“ und zugleich die gesellschaftlichen und ethischen Implikationen kritisch zu reflektieren.[web:15][web:18]  
+
+Mögliche Formate sind:  
+- Modulreihen zu „Grundlagen KI und Bildung“, „Didaktik des KI‑Einsatzes“, „Rechtliche Rahmenbedingungen und Datenschutz“ oder „Schulentwicklung mit KI“.  
+- Multiplikatorinnen‑ und Multiplikatorenprogramme, in denen Lehrkräfte zu schulischen KI‑Ansprechpersonen qualifiziert werden.  
+- Online‑Formate (Webinare, Selbstlernkurse) und Präsenzveranstaltungen, ggf. in Kooperation mit Hochschulen und externen Expertinnen und Experten.  
+
+In Verbindung mit DigCompEdu können diese Angebote dazu genutzt werden, individuelle und kollektive Kompetenzprofile im Kollegium zu entwickeln und Fortbildungsplanung datenbasiert und zielgerichtet auszurichten (z. B. Stufenmodell von Einsteiger‑ zu Fortgeschrittenen‑ und Expertinnen‑Kompetenzen).[web:39][web:47]  
+
+### 5.3.4 Zusammenfassende Empfehlungen für Schulen
+
+Aus den vorangegangenen Überlegungen lassen sich für Schulen in Baden‑Württemberg folgende praxisorientierte Empfehlungen ableiten:  
+
+- **Frühzeitig klein anfangen, aber langfristig denken:** Mit überschaubaren Unterrichtssequenzen (wie in 5.1) und Projekten (5.2) beginnen, diese evaluieren und schrittweise in ein umfassendes KI‑Medienkonzept überführen.  
+- **Institutionelle Angebote systematisch nutzen:** Materialien und Beratung von LMZ/SMZ, Fortbildungen des ZSL und die Expertise des KI‑Zentrums Schule aktiv in den Schulentwicklungsprozess einbinden.[web:21][web:40][web:18]  
+- **Rechtssicherheit herstellen:** Schulische KI‑Praxis konsequent an den Vorgaben des EU AI Act, der DUVO BW und den Empfehlungen des KM BW zu datenschutzkonformem KI‑Einsatz orientieren.[web:19][web:24]  
+- **Partizipation sichern:** Lernende, Lehrkräfte und Eltern an der Entwicklung von Leitlinien und Regelungen zum KI‑Einsatz beteiligen, um Transparenz und Akzeptanz zu fördern.  
+- **Ethik und Demokratiebildung mitdenken:** KI nicht nur als Effizienztechnologie behandeln, sondern im Rahmen von Medienbildung, Ethikunterricht und Demokratiebildung kritisch reflektieren, wie es UNESCO und andere internationale Organisationen einfordern.[web:36][web:42]  
+
+Auf diese Weise kann KI‐Bildung in der Sekundarstufe I dazu beitragen, Medienkompetenz zeitgemäß weiterzuentwickeln, berufliche Orientierung zu vertiefen und Schülerinnen und Schüler auf eine von KI geprägte Lebens‑ und Arbeitswelt vorzubereiten – im Einklang mit den landesspezifischen Rahmenvorgaben und internationalen Leitlinien.
